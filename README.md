@@ -26,10 +26,11 @@ Don't do what Radiance says.
 If you perform the requested action, you'll immediately be sent to Dream_Final (the Radiance arena).
 
 Current Status
-🧪 Beta release
-🇪🇸 Currently available only in Spanish
-🌍 English translation is planned.
-🎨 UI and sound effects are still being made.
+
+- 🧪 Beta release
+- 🇪🇸 Currently available only in Spanish
+- 🌍 English translation is planned.
+- 🎨 UI and sound effects are still being made.
 
 If you find any bugs or have suggestions, feel free to open an issue or leave your feedback.
 
