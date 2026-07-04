@@ -1,4 +1,4 @@
-# -WhatTheMoth-
+# ¡¿WhatTheMoth?!
 ### Inspired by the challenge featured in Soapy's video.
 
 ¡¿WhatTheMoth?! recreates the idea in Hollow Knight with its own implementation.
