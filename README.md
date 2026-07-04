@@ -25,7 +25,7 @@ Don't do what Radiance says.
 
 If you perform the requested action, you'll immediately be sent to Dream_Final (the Radiance arena).
 
-Current Status
+### Current Status
 
 - 🧪 Beta release
 - 🇪🇸 Currently available only in Spanish
